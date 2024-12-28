@@ -1,10 +1,6 @@
 # Tutorial-github
 
 Github
-github merupakan suatu aplikasi atau website yang memudahkan suatu tim untuk melakukan pekerjaan secara bersama
-pada github, kita dapat memiliki beberapa pilihan untuk memudahkan kita untuk mengetahui perubahan apa saja yang terjadi
-sehingga tim akan lebih mudah untuk melanjutkan projek yang belum dikerjakan.
- 
+git hub merupakan tempat wdah untuk merkolabrasi dengan tim dan anggota lain
 
- gbdabgcfkab  
- lintang yoga wistara  
+![clicky][https://github.com/xagafax/belajar]
